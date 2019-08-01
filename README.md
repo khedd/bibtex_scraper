@@ -1,5 +1,7 @@
 # Bibtex Scraper
 
+Scrape bibtex from websites such as Microsoft Academic, Core (TODO), Base (TODO).
+
 Usage:
 ```python
 from bibtex_scraper import query
